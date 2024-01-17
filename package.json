@@ -1,6 +1,6 @@
 {
   "name": "@bnpne/schism",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A text splitter for splitting text and other text splitting stuff",
   "main": "schism.min.js",
   "scripts": {
