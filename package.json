@@ -1,0 +1,25 @@
+{
+  "name": "@bnpne/schism",
+  "version": "1.0.0",
+  "description": "A text splitter for splitting text and other text splitting stuff",
+  "main": "schism.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnpne/schism.git"
+  },
+  "keywords": [
+    "text",
+    "animation",
+    "bnpne",
+    "splitter"
+  ],
+  "author": "Ben Paine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bnpne/schism/issues"
+  },
+  "homepage": "https://github.com/bnpne/schism#readme"
+}
